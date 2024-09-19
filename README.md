@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Hi there! I'm Shivam! Former developer, Junior project manager & an aspiring **Data Analyst**📊<br>I'm currently learning Data Analysis using tools tools like **Excel**, **PowerBI**, **SQL** & **Python**.<br>I'm looking to collaborate on projects related to data domain.<br>Proficient in **statistics**, **tableu** and **AI Enabled data analysis** are some of my other skills.<br>I'm always looking to learn new things and collaborate with others on this niche.<br>On Github, you'll find some of my work that showcase my skills.<br><br>Fun Fact: When there's a bug, there's hope for discovery!😉
+Hi there! I'm Shivam! Former developer, Junior project manager & an aspiring **Data Analyst**📊<br>I'm currently learning Data Analysis using tools tools like **Excel**, **PowerBI**, **SQL** & **Python**.<br>I'm looking to collaborate on projects related to data domain.<br>Proficient in **statistics**, **tableau** and **AI Enabled data analysis** are some of my other skills.<br>I'm always looking to learn new things and collaborate with others on this niche.<br>On Github, you'll find some of my work that showcase my skills.<br><br>Fun Fact: When there's a bug, there's hope for discovery!😉
 
 
 ## 🌐 Socials:
