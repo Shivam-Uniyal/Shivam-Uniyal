@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Hi there! I'm Shivam!<br>I'm currently learning Full Stack Web Development using MERN stack.<br>I'm looking to collaborate on projects related to React.js and Node.js technologies.<br>I'm always looking to learn new things and collaborate with others on this niche.<br>On Github, you'll find some of my work that showcase my skills.<br><br>Fun Fact: When there's a bug, there's hope for discovery!😉
+Hi there! I'm Shivam! Former developer, junior project manager & an aspiring data analyst<br>I'm currently learning Data Analysis using tools tools like Excel, PowerBI, SQL & Python.<br>I'm looking to collaborate on projects related to data domain.<br>Proficient in statistics, Tableu and AI Enabled data analysis are some of my other skills.<br>I'm always looking to learn new things and collaborate with others on this niche.<br>On Github, you'll find some of my work that showcase my skills.<br><br>Fun Fact: When there's a bug, there's hope for discovery!😉
 
 
 ## 🌐 Socials:
