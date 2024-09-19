@@ -27,7 +27,6 @@ Hi there! I'm Shivam! Former developer, Junior project manager & an aspiring **D
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-
 <img width="64" height="64" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="microsoft-excel-2019"/><img width="64" height="64" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
 <img width="64" height="64" src="https://img.icons8.com/external-bearicons-outline-color-bearicons/64/external-SQL-file-extension-bearicons-outline-color-bearicons.png" alt="external-SQL-file-extension-bearicons-outline-color-bearicons"/><img width="64" height="64" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 <img width="64" height="64" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
